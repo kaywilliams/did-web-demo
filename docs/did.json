@@ -1,0 +1,18 @@
+{
+  "id": "did:web:kaywilliams.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:kaywilliams.github.io:did-web-demo#bac74bf52629a221c5944fede9490d9dc93fe7d848d028cf993d115bc8ecad48",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:kaywilliams.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "rf6evYjAxEdVFeCXR-ORBTcvSIls1aftNc_JXJFMkd39tFHFSaX8DRFMmRyAw3fS",
+        "y": "tdDLrQbf-bvD_ls0BaRW1gXmx6ma9Dzb68PVDhGgB6K7y7U0QTbXbVLOd_-umLdY",
+        "kid": "#bac74bf52629a221c5944fede9490d9dc93fe7d848d028cf993d115bc8ecad48",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
